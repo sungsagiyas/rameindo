@@ -1,2 +1,1 @@
-# rameindo
-rameindo
+# [rameindo](https://rameindo.pages.dev)
